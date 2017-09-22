@@ -1,0 +1,17 @@
+body {
+	background-image: url("../images/fractalgrey.jpg");
+}
+
+.jumbotron {
+	background-color: transparent;
+	  font-size: 1.5em;
+	/*font-family: 'Russo One', sans-serif;*/
+
+font-family: 'Luckiest Guy', cursive;
+
+	  color: white;
+}
+
+.row {
+	background-color: transparent;
+}
